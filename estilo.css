@@ -1,0 +1,22 @@
+.cabecalho{
+    background-color: #98336c;
+    text-align: center;
+}
+.titulo{
+    color:#ffff;
+
+} 
+
+.perfil {
+    border: 2px solid #486288;
+    border-radius: 10px;
+    border-radius: 50%;
+    margin: 50px;
+
+}
+
+.redessociais img{
+    padding: 10px;
+}
+
+
